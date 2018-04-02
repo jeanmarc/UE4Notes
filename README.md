@@ -1,7 +1,9 @@
 # UE4Notes
 Notes about using Unreal Engine 4 on Linux
 
-## Setup
+Go to the [main index page](doc/Index.md)
+
+## My setup
 I am running Debian Stretch, and am using Unreal 4.19, checked out from github, in combination with CLion:
 
 ```
